@@ -12,8 +12,7 @@ npm install
 ### 2. Add your API key
 Create `.env.local` in the root:
 ```
-ANTHROPIC_API_KEY=sk-ant-your-key-here
-```
+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```
 
 ### 3. Run locally
 ```bash
